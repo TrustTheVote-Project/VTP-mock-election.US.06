@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/e11dc29c99",
+        "cast_branch": "CVRs/0000/9ad717dc53",
         "choices": [
             {
                 "name": "Mitt Romney",
@@ -30,12 +30,12 @@
         "ggo": "GGOs/states/California",
         "name": "US president",
         "selection": [
-            "5: Beta O'rourke",
-            "4: Cory Booker",
-            "3: Kamala Harris",
+            "0: Mitt Romney",
             "2: Ron DeSantis",
-            "1: John Cassick",
-            "0: Mitt Romney"
+            "3: Kamala Harris",
+            "4: Cory Booker",
+            "5: Beta O'rourke",
+            "1: John Cassick"
         ],
         "tally": "rcv",
         "uid": "0000"
